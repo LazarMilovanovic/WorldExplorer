@@ -344,6 +344,7 @@ select:open::picker-icon {
   font-size: var(--body-text);
   text-align: center;
   padding: 15px;
+  height: 70px;
 }
 
 .tabs__btns:hover {
@@ -739,6 +740,11 @@ select:open::picker-icon {
     display: flex;
     justify-content: space-between;
   }
+
+  .tabs__btns {
+    height: 50px;
+  }
+
   .search-results {
     display: flex;
     flex-wrap: wrap;
