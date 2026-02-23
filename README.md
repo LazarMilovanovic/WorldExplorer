@@ -1,5 +1,7 @@
 # 🌍 World Explorer — Frontend Zadatak (Junior Level)
 
+## Live Demo: <br /> https://lazarmilovanovic.github.io/WorldExplorer/
+
 ## 📌 Opis zadatka
 
 Cilj zadatka je da napraviš **responsivnu single-page aplikaciju** koja prikazuje države sveta koristeći **REST Countries API**.  
@@ -295,3 +297,4 @@ Koristi `@media` query breakpoint-e.
 ## 🏁 Kraj zadatka
 
 Cilj je da napraviš jednostavnu, brzu i preglednu aplikaciju kojom korisnik može da istražuje države sveta, uz moderan UI koji jasno pokazuje tvoje znanje HTML-a, CSS-a i JavaScript-a.
+
